@@ -1,0 +1,29 @@
+ticker,asset_class,region,description
+SPY,Equity,US,US Large Cap Equity
+QQQ,Equity,US,Nasdaq-100 Large Cap Growth Equity
+IWM,Equity,US,US Small Cap Equity
+MDY,Equity,US,US Mid Cap Equity
+EFA,Equity,Developed Markets ex-US,Developed Markets Equity excluding the US and Canada
+EEM,Equity,Emerging Markets,Emerging Markets Equity
+VGK,Equity,Europe,European Equity
+EWJ,Equity,Japan,Japanese Equity
+VPL,Equity,Asia-Pacific ex-US,Developed Asia-Pacific Equity
+SHY,Government Bonds,US,Short-Term Treasury Bonds
+VGSH,Government Bonds,US,Short-Term Treasury Bonds
+IEF,Government Bonds,US,Intermediate-Term Treasury Bonds
+TLT,Government Bonds,US,Long-Term Treasury Bonds
+TIP,Government Bonds,US,Treasury Inflation-Protected Securities
+BWX,Government Bonds,Global ex-US,International Treasury Bonds
+IGOV,Government Bonds,Global ex-US,International Government Bonds
+LQD,Credit,US,Investment-Grade Corporate Bonds
+HYG,Credit,US,High-Yield Corporate Bonds
+EMB,Credit,Emerging Markets,US Dollar Emerging Markets Bonds
+BKLN,Credit,US,Senior Secured Bank Loans
+GLD,Commodities,Global,Gold Bullion
+DBC,Commodities,Global,Broad Commodity Basket
+GSG,Commodities,Global,Diversified Commodity Basket
+VNQ,Real Estate,US,US Real Estate Investment Trusts
+RWX,Real Estate,Global ex-US,International Real Estate
+VNQI,Real Estate,Global ex-US,International Real Estate Investment Trusts
+BIL,Cash,US,One-to-Three-Month Treasury Bills
+

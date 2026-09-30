@@ -1,0 +1,8 @@
+metric,strategy,value
+common_start,,2013-03-31
+common_end,,2026-05-31
+best_sharpe,Max Sharpe Ledoit-Wolf,0.922408373834
+highest_final_wealth,Target Volatility Ledoit-Wolf,4.172697090067
+most_diversified_overall,Equal Weight,23.000000000000
+most_diversified_optimized,Michaud 500,6.245267212859
+lowest_turnover,HRP,0.074863539827

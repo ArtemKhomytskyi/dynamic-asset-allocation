@@ -1,0 +1,3 @@
+universe_name,n_tickers,start_date,end_date,n_months,excluded_tickers,reason
+core_23,23,2008-01-31,2026-05-31,221,IGOV;VGSH;VNQI;BKLN,Retains the 2008 crisis period while excluding ETFs without January 2008 history.
+extended_27,27,2011-03-31,2026-05-31,183,None,Includes all configured ETFs from the first complete common month.

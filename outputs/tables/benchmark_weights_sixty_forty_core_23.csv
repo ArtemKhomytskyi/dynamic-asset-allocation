@@ -1,0 +1,24 @@
+ticker,weight,asset_class
+SPY,0.06666666666666667,Equity
+QQQ,0.06666666666666667,Equity
+IWM,0.06666666666666667,Equity
+MDY,0.06666666666666667,Equity
+EFA,0.06666666666666667,Equity
+EEM,0.06666666666666667,Equity
+VGK,0.06666666666666667,Equity
+EWJ,0.06666666666666667,Equity
+VPL,0.06666666666666667,Equity
+SHY,0.08,Government Bonds
+IEF,0.08,Government Bonds
+TLT,0.08,Government Bonds
+TIP,0.08,Government Bonds
+BWX,0.08,Government Bonds
+LQD,0.0,Credit
+HYG,0.0,Credit
+EMB,0.0,Credit
+GLD,0.0,Commodities
+DBC,0.0,Commodities
+GSG,0.0,Commodities
+VNQ,0.0,Real Estate
+RWX,0.0,Real Estate
+BIL,0.0,Cash
